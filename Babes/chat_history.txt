@@ -1,0 +1,220 @@
+System: I've added 'study' to your todo list
+System: Removed: go market - study
+You: take a screenshot
+You: take a screenshot
+Babes: Screenshot saved as Babes\Screenshots\screenshot.png
+You: open screenshot
+You: open screenshot
+Babes: Screenshot saved as Babes\Screenshots\screenshot.png
+You: show me the screenshot
+You: show me the screenshot
+Babes: Screenshot saved as Babes\Screenshots\screenshot.png
+You: switch window
+You: switch window
+Babes: I didn't understand that command
+You: hide all files
+You: hide all files
+Babes: I didn't understand that command
+You: play supreme on youtube
+You: play supreme on youtube
+Babes: I didn't understand that command
+You: open chrome
+You: open chrome
+Babes: I didn't understand that command
+You: date
+You: date
+Babes: I didn't understand that command
+You: stop
+You: stop
+Babes: I didn't understand that command
+You: open chrome
+You: open chrome
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: help
+You: help
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: launch chrome
+You: launch chrome
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: play music
+You: play music
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: what's the date
+You: what's the date
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: jay shri
+You: jay shri
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: what's time is it
+You: what's time is it
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: add to do
+You: add to do
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: system information
+You: system information
+Babes: Currently 0.0 percent of CPU, 12.82 GB of RAM out of total 15.34 GB is being used and battery level is at 82 percent
+You: current date
+You: current date
+Babes: Today is Jun 26 2025
+You: what time is it
+You: what time is it
+Babes: The time is currently 19:48:05
+You: what date is it
+You: what date is it
+Babes: Today is Jun 26 2025
+You: take a screenshot
+You: take a screenshot
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: capture screen
+You: capture screen
+Babes: Screenshot saved as Babes\Screenshots\screenshot.png
+You: search for narendra modi
+You: search for narendra modi
+Babes: Searching for narendra modi
+You: calculate 4 + 2
+You: minimise all
+You: minimise all
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: show all windows
+You: show all windows
+Babes: Windows restored
+You: hide all windows
+You: hide all windows
+Babes: All windows minimized
+You: bye
+You: bye
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: goodbye
+You: goodbye
+Babes: Goodbye
+You: hide all files
+You: hide all files
+Babes: File hiding requires more specific implementation
+You: take a screenshot
+You: take a screenshot
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: capture screen
+You: capture screen
+Babes: Screenshot saved as screenshot_20250626_195600.png
+You: open screenshot
+You: open screenshot
+Babes: Failed to open screenshot: [WinError 2] The system cannot find the file specified: 'screenshot'
+You: show screenshot
+You: show screenshot
+Babes: Opening screenshot_20250626_195600.png
+You: calculate 4 + 2
+You: search for 4 + 2
+You: search for 4 + 2
+Babes: Searching for 4 + 2
+You: go offline
+You: go offline
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: exit
+You: exit
+Babes: Goodbye
+You: tell me the time
+You: tell me the time
+Babes: The time is currently 20:25:19
+You: go for study
+You: go for study
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: capture screen
+You: capture screen
+Babes: Screenshot saved as screenshot_20250626_202545.png
+You: open screenshot
+You: open screenshot
+Babes: Failed to open screenshot: [WinError 2] The system cannot find the file specified: 'screenshot'
+You: show screenshot
+You: show screenshot
+Babes: Opening screenshot_20250626_202545.png
+You: system information
+You: system information
+Babes: Currently 0.0 percent of CPU, 9.8 GB of RAM out of total 15.34 GB is being used and battery level is at 65 percent
+You: make all file invisible
+You: make all file invisible
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: hide all files
+You: hide all files
+Babes: File hiding requires more specific implementation
+You: hide all files
+You: hide all files
+Babes: File hiding requires more specific implementation
+You: hide files
+You: hide files
+Babes: File hiding requires more specific implementation
+You: switch window
+You: switch window
+Babes: Switched window
+You: aur yahan
+You: aur yahan
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: minimise all windows
+You: minimise all windows
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: hide all windows
+You: hide all windows
+Babes: All windows minimized
+You: show all
+You: show all
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: show all windows
+You: show all windows
+Babes: Windows restored
+You: play supreme on youtube
+You: play supreme on youtube
+Babes: Searching YouTube for supreme on youtube
+You: theek hai to kya
+You: theek hai to kya
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: play supreme on youtube
+You: play supreme on youtube
+Babes: Searching YouTube for supreme on youtube
+You: search who is the
+You: search who is the
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: prime minister of india
+You: prime minister of india
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: of india
+You: of india
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: search for prime minister of india
+You: search for prime minister of india
+Babes: Searching for prime minister of india
+You: launch chrome
+You: launch chrome
+Babes: Opening chrome
+You: launch notepad
+You: launch notepad
+Babes: Opening notepad
+You: launch calculator
+You: launch calculator
+Babes: Opening calculator
+You: make all file in visible
+You: make all file in visible
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: on file
+You: on file
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: hide all files
+You: hide all files
+Babes: File hiding requires more specific implementation
+You: light on voice
+You: light on voice
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: hide files
+You: hide files
+Babes: File hiding requires more specific implementation
+You: tum kaise sune
+You: tum kaise sune
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: hide all files
+You: hide all files
+Babes: Error controlling file visibility: cannot access local variable 'win32api' where it is not associated with a value
+You: file visibility access control
+You: file visibility access control
+Babes: I didn't understand that command. Try saying 'help' for a list of commands
+You: goodbye
+You: goodbye
+Babes: Goodbye
