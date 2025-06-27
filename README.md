@@ -1,10 +1,12 @@
 # Babes AI Assistant
 
-![Babes AI Logo](assets/main_logo.png)
+![Babes AI Logo](assests/main_logo.png)
 
 ### Contact Information 
 Instagram : https://www.instagram.com/programmer_deepak/
+Youtube : https://youtu.be/P6T88JqH09Y?si=rlcBm6Z6nqlCGzXg
 Email : goodvibesdeepak@gmail.com
+Check Video On Instagram Or On Youtube To See Demo and Know About Babes
 
 A sophisticated voice-controlled desktop assistant with natural language processing capabilities, built with Python and PyQt5.
 
