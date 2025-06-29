@@ -1,6 +1,6 @@
 # Babes AI Assistant
 
-![Babes AI Logo](assests/main_logo.png)
+![Babes AI Logo](assets/main_logo.png)
 
 ### Contact Information 
 Instagram : https://www.instagram.com/programmer_deepak/
